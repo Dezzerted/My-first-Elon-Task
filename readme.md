@@ -18,8 +18,9 @@ License [SamPridumal](license.md)
 7. [Команда "git commit"](whatisgicommit.md)
 8. [Команда "git log"](whatisgitlog.md)
 9. [Команда "git show"](gitshow.md)
-10. [Команда "git push"](gitpush.md)
-11. [Другие команды](othercommands.md)
+10. [Команда "git remote add"]()
+11. [Команда "git push"](gitpush.md)
+12. [Другие команды](othercommands.md)
 
 На этом пока [всё](./Пикчи/i.webp).
 
