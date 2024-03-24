@@ -14,7 +14,8 @@ git config --global user.email здесь должно быть ваше мыл�
 ```bash=
 git config --global --list
 ```
-
+___
+Go [**BACK**](readme.md)
 
 
 

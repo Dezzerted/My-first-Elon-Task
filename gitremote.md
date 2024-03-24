@@ -3,3 +3,5 @@
 ```bash=
 git remote add origin адрес_репозитория_на_github
 ```
+___
+Go [**BACK**](readme.md)
